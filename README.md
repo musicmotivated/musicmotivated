@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music Production
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on a STREAMING SERVICE
-- 📫 musicmotivatedtv
+- 📫 musicmotivatedtv@gmail.com
 
 <!---
 musicmotivated/musicmotivated is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
